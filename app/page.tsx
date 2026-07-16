@@ -182,7 +182,7 @@ export default function Home() {
           </Link>
         </section>
 
-        <section className="mt-5 grid gap-5 lg:grid-cols-[1.45fr_0.82fr_0.98fr]">
+        <section className="mt-5 grid grid-cols-[minmax(0,1fr)] gap-5 lg:grid-cols-[1.45fr_0.82fr_0.98fr]">
           <div className="glass-panel p-5 sm:p-6">
             <div className="mb-4 flex items-end justify-between">
               <div>

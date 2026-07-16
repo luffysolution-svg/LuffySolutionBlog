@@ -24,6 +24,11 @@ LuffySolution 是我在网络世界使用的名字。这里不限定某一部作
 
 ## 联系我
 
-社交链接暂时留空。准备好公开账号后，可以在 `siteConfig.ts` 中补充 GitHub、邮箱与其他联系方式。
+如果你想交流项目、技术或有趣的想法，可以通过这些方式找到我：
 
-欢迎常来看看。
+* **GitHub：** [luffysolution-svg](https://github.com/luffysolution-svg)
+* **邮箱：** [LuffySolution@gmail.com](mailto:LuffySolution@gmail.com)
+* **微信：** `WS17520104409`
+* **QQ：** `1478118227`
+
+欢迎来信，也欢迎在文章评论区留下你的想法。

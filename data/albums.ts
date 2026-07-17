@@ -6,6 +6,7 @@ export const albums: Album[] = [
   {
     "title": "足迹",
     "description": "一段承载岁月的图集",
+    "cover": "https://obsidian-image-bed-1379524953.cos.ap-guangzhou.myqcloud.com/Obsidian/a33eb4990c4e363d517d7387142bb23d.jpg",
     "id": "album_1784268681071",
     "photos": [
       {

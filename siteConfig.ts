@@ -15,6 +15,7 @@ export type SiteConfig = {
   defaultPostCover: string;
   photoWallImage: string;
   cloudMusicIds: string[];
+  musicAudioUrls: Record<string, string>;
   social: Record<string, string>;
   counts: { photos: number };
   chatterTitle: string;
@@ -66,10 +67,21 @@ export const siteConfig: SiteConfig = {
     "3361076230",
     "1859390262",
     "186131",
+    "186162",
     "186114",
+    "185884",
     "186047",
+    "185818",
     "186139"
   ],
+  "musicAudioUrls": {
+    "186162": "/music/jay-chou-reverse-clock.mp3",
+    "186114": "/music/jay-chou-love-before-ad.mp3",
+    "185884": "/music/jay-chou-step-back.mp3",
+    "186047": "/music/jay-chou-secret-code.mp3",
+    "185818": "/music/jay-chou-not-good-enough.mp3",
+    "186139": "/music/jay-chou-silence.mp3"
+  },
   "social": {
     "github": "https://github.com/luffysolution-svg",
     "gitee": "",
